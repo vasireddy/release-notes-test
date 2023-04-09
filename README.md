@@ -1,6 +1,6 @@
 # release-notes-test
 
-understanding new release notes feature
+understanding and testing new release notes feature
 
 `.github/release.yml`
 
